@@ -157,7 +157,9 @@ Sliding Window (T=200 samples, stride=100, 50% overlap)
 SHAP TreeExplainer (57-dim descriptor, RF proxy, 100 test windows)
 → Per-role sensor attribution maps
 ```
+## 🔄 Pipeline
 
+![Pipeline](pipeline.png)
 ### Project Structure
 
 ```
